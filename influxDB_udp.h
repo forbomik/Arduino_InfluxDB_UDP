@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <influxDB_data.h>
-#include <ESP8266WiFi.h>
+//#include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
 
